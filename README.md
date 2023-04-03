@@ -98,6 +98,7 @@ Don't forget to check out our [live link](https://gofarm.today).
 
 To learn more about the project tech stack, take a look at the following resources:
 - [Learn React](https://react.dev/learn) - an interative React tutorial.
+
 - [Learn Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction) - get started with Bootstrap.
 - [Learn React Bootstrap ](https://react-bootstrap.github.io/getting-started/introduction) - get started with React Bootstrap.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
