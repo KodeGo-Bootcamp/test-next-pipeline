@@ -45,6 +45,7 @@
 ### External APIs
 
 - [OpenWeather](https://openweathermap.org)
+
 - [OpenAI](https://openai.com)
 
 ## Scrum Team
