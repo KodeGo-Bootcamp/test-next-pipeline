@@ -45,7 +45,6 @@
 ### External APIs
 
 - [OpenWeather](https://openweathermap.org)
-
 - [OpenAI](https://openai.com)
 
 ## Scrum Team
@@ -53,6 +52,10 @@
 [Eric Michael Constantino](https://github.com/aeuhim)
 
 [Jasbar Legaspina](https://github.com/justjazzed)
+
+## External Contributors
+
+None so far.
 
 ## We Welcome Contributions From Everyone!
 
