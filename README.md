@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-    <details>Get up and GoFarm.Today</details>
+    <b>Get up and GoFarm.Today</b>
 </p>
 
 <p align="center">
