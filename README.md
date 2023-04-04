@@ -3,14 +3,14 @@
 </h6>
 
 <h1 align="center">
-        Logo Here
+        <a href="https://gofarm.today">Logo Here</a>
 </h1>
 
-<h3 align="center">
+<div align="center" style="font-size: 18.72px">
     Get up and GoFarm.Today
-</h3>
+</div>
 
-<h5 align="center">
+<div align="center" style="font-size: 13.28px">
     The innovative app for farmers on the go.
 </h5>
 
