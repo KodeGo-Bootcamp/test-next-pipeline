@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-    \[Get up and GoFarm.TOday]
+    <>Get up and GoFarm.Today
 </h3>
 
 <h5 align="center">
