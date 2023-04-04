@@ -26,7 +26,7 @@
 
 [![test](https://github.com/KodeGo-Bootcamp/gofarm-today/actions/workflows/test.yml/badge.svg)](https://github.com/KodeGo-Bootcamp/gofarm-today/actions/workflows/test.yml)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/51e2b4a5-e430-42f8-9188-8cc09b596268/deploy-status)](https://app.netlify.com/sites/gofarm-today/deploys)
-![GitHub](https://img.shields.io/github/license/KodeGo-Bootcamp/gofarm-today)
+[![GitHub](https://img.shields.io/github/license/KodeGo-Bootcamp/gofarm-today)](https://github.com/KodeGo-Bootcamp/gofarm-today/blob/main/LICENSE)
 
 </div>
 
