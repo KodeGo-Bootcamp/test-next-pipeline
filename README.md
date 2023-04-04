@@ -12,9 +12,9 @@
     Get up and GoFarm.Today
 </h3>
 
-<h5 align="center">
+<h6 align="center">
     The innovative app for farmers on the go.
-</h5>
+</h6>
 
 <p align="center">
     <a href="https://gofarm.today"><b>Website</b></a> •
