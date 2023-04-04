@@ -6,9 +6,9 @@
         <a href="https://gofarm.today"></a>
 </h1>
 
-<p align="center" style="font-size: 2.5rem">
-    <b>Get up and GoFarm.Today</b>
-</p>
+<h2 align="center">
+    <span><b>Get up and GoFarm.Today</b></span>
+</h2>
 
 <p align="center" style="font-size: 1.125">
     The innovative app for farmers on the go.
