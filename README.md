@@ -6,7 +6,7 @@
         <a href="https://gofarm.today">Logo Here</a>
 </h1>
 
-<p align="center" style="font-size: 1.5rem">
+<p align="center" style="font-size: 2.5rem">
     <b>Get up and GoFarm.Today</b>
 </p>
 
