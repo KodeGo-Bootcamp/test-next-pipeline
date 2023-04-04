@@ -2,12 +2,12 @@
     <span>Group 7 - Mini Project 2</span>
 </h6>
 
-<h1 align="center">
+\<h1 align="center">
     <span><a href="https://gofarm.today">Logo Here</a></span>
 </h1>
 
 <h3 align="center">
-    <!-- -->Get up and GoFarm.Today<!-- -->
+    <details>Get up and GoFarm.Today</details>
 </h3>
 
 <h5 align="center">
