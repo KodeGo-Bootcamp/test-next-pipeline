@@ -7,11 +7,11 @@
 </h1>
 
 <h3 align="center">
-    ​Get up and GoFarm.Today​
+    Get up and GoFarm.Today
 </h3>
 
 <h5 align="center">
-    ​T​he innovative app for farmers on the go.
+    The innovative app for farmers on the go.
 </h5>
 
 <p align="center">
