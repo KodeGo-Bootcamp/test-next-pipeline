@@ -1,11 +1,11 @@
-<!-- <h6 align="center"> -->
 <div align="center">
-    <i>Group 7 - Mini Project 2</i>
+
+`Group 7 - Mini Project 2`
+
 </div>
-<!-- </h6> -->
 
 <h1 align="center">
-    <a href="https://gofarm.today">Logo Here</a>
+    <a href="https://gofarm.today"><img src="https://www.kindpng.com/picc/m/195-1951310_your-logo-here-png-monochrome-transparent-png.png"></a>
 </h1>
 
 <p align="center">
