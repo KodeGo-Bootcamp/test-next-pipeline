@@ -4,7 +4,7 @@
 
 \<h1 align="center">
     <span><a href="https://gofarm.today">Logo Here</a></span>
-</h1>
+\</h1>
 
 <h3 align="center">
     <details>Get up and GoFarm.Today</details>
