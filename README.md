@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-    <b>Get up and GoFarm.Today</b>
+    Get up and GoFarm.Today
 </h3>
 
 <h5 align="center">
