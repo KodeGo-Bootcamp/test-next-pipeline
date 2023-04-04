@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-    \(G\e\t\ \u\p\ \a\n\d\ \G\o\F\a\r\m\.\T\o\d\a\y)
+    \(Get up and GoFarm.TOday)
 </h3>
 
 <h5 align="center">
