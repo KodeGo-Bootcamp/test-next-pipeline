@@ -6,13 +6,13 @@
         <a href="https://gofarm.today">Logo Here</a>
 </h1>
 
-<div align="center" style="font-size: 18.72px">
+<p align="center" style="font-size: 18.72px">
     Get up and GoFarm.Today
-</div>
+</p>
 
-<div align="center" style="font-size: 13.28px">
+<p align="center" style="font-size: 13.28px">
     The innovative app for farmers on the go.
-</h5>
+</p>
 
 <p align="center">
     <a href="https://gofarm.today"><b>Website</b></a> •
