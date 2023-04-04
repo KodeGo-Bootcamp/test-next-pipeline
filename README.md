@@ -11,7 +11,7 @@
 </h3>
 
 <h5 align="center">
-    <span>The innovative app for farmers on the go.</span>
+    <span></span>The innovative app for farmers on the go.<span></span>
 </h5>
 
 <p align="center">
