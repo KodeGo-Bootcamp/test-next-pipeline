@@ -11,7 +11,7 @@
 </h3>
 
 <h5 align="center">
-    <div>
+    <div style="display: inline">
         The innovative app for farmers on the go.
     </div>
 </h5>
