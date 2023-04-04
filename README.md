@@ -1,6 +1,8 @@
-<h6 align="center">
-    <span>Group 7 - Mini Project 2</span>
-</h6>
+<!-- <h6 align="center"> -->
+<i>
+    Group 7 - Mini Project 2
+</i>
+<!-- </h6> -->
 
 <h1 align="center">
     <a href="https://gofarm.today">Logo Here</a>
