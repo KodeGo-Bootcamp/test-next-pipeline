@@ -2,19 +2,17 @@
     <span>Group 7 - Mini Project 2</span>
 </h6>
 
-\<h1 align="center">
-    <span><a href="https://gofarm.today">Logo Here</a></span>
-\</h1>
+<h1 align="center">
+    <a href="https://gofarm.today">Logo Here</a>
+</h1>
 
-<h3 align="center">
+<p align="center">
     <details>Get up and GoFarm.Today</details>
-</h3>
+</p>
 
-<h5 align="center">
-    <div style="display: inline">
-        The innovative app for farmers on the go.
-    </div>
-</h5>
+<p align="center">
+    The innovative app for farmers on the go.
+</p>
 
 <p align="center">
     <a href="https://gofarm.today"><b>Website</b></a> •
