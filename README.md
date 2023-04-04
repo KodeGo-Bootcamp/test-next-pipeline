@@ -3,7 +3,7 @@
 </h6>
 
 <h1 align="center">
-        <a href="https://gofarm.today">Logo Here</a>
+        <a href="https://gofarm.today"></a>
 </h1>
 
 <p align="center" style="font-size: 2.5rem">
