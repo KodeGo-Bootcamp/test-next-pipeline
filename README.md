@@ -1,7 +1,7 @@
 <!-- <h6 align="center"> -->
-<i align="center">
-    Group 7 - Mini Project 2
-</i>
+<div align="center">
+    <i>Group 7 - Mini Project 2</i>
+</div>
 <!-- </h6> -->
 
 <h1 align="center">
