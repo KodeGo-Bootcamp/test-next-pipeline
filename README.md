@@ -1,10 +1,9 @@
-<h6 align="center">
+<p align="center" style="color: #121212">
     Group 7 - Mini Project 2
-</h6>
+</p>
 
 <h1 align="center">
         <a href="https://gofarm.today"></a>
-    a
 </h1>
 
 <p align="center" style="font-size: 2.5rem">
