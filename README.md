@@ -1,5 +1,5 @@
 <!-- <h6 align="center"> -->
-<i>
+<i align="center">
     Group 7 - Mini Project 2
 </i>
 <!-- </h6> -->
